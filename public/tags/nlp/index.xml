@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nlp on Mengmei&#39;s Log</title>
+    <link>http://localhost:1313/tags/nlp/</link>
+    <description>Recent content in Nlp on Mengmei&#39;s Log</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decoding the User: From Support Conversations to Language Insight</title>
+      <link>http://localhost:1313/posts/2025-05-25-decoding-user/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-05-25-decoding-user/</guid>
+      <description>&lt;p&gt;This article explores how my experience in customer support helped me develop a sensitivity to user language, and how that parallels decoding unknown languages in games like &lt;em&gt;Chants of Sennaar&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Article Title Here</title>
+      <link>http://localhost:1313/posts/2025-06-03-new-article-template/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-06-03-new-article-template/</guid>
+      <description>&lt;p&gt;👋 Welcome to a new post! You can start writing your article below.&lt;/p&gt;
+&lt;p&gt;Here are some helpful tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;code&gt;**bold**&lt;/code&gt; or &lt;code&gt;*italic*&lt;/code&gt; for formatting&lt;/li&gt;
+&lt;li&gt;Create lists with &lt;code&gt;-&lt;/code&gt; or &lt;code&gt;*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Insert links like &lt;a href=&#34;https://example.com&#34;&gt;this&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;---&lt;/code&gt; for horizontal dividers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;suggested-structure&#34;&gt;Suggested Structure&lt;/h2&gt;
+&lt;h3 id=&#34;1-context-or-motivation&#34;&gt;1. Context or Motivation&lt;/h3&gt;
+&lt;p&gt;Why are you writing this? What problem, idea, or experience are you reflecting on?&lt;/p&gt;
+&lt;h3 id=&#34;2-insight-or-story&#34;&gt;2. Insight or Story&lt;/h3&gt;
+&lt;p&gt;What’s the core insight or event you want to share?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

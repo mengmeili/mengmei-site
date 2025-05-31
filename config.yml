@@ -1,0 +1,35 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Mengmei's Log"
+theme: "PaperMod"
+
+params:
+  mainSections: ["posts"]
+  defaultTheme: "dark"
+  homeInfoParams:
+    Title: "👋 Hi, I'm Mengmei"
+    Content: "Education → Support → Systems-Driven Work. This site is where I reflect, write and build."
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/mengmeili"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/mengmei-li-660376277/"
+    - name: "email"
+      url: "mailto:mengmei429@gmail.com"
+
+menu:
+  main:
+    - name: "Posts"
+      url: "/posts/"
+      weight: 1
+    - name: "Projects"
+      url: "/projects/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
