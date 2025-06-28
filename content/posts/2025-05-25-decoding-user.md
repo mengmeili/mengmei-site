@@ -35,7 +35,7 @@ It’s a small language gap but it can cause confusion on both sides, whether it
 
 Relying on internal definitions to understand users’ questions often gets support consultants nowhere. So instead, I simulate their user account and environment to understand exactly what they see and what they mean. It’s a daily act of translation between two worlds: internal logic and user cognition.
 
-A glossary of terminology can be useful — but let's face it, most users don’t have the time (or patience) to go through it.
+A glossary of terminology can be useful. But let's face it, most users don’t have the time (or patience) to go through it.
 
 (I _loved_ keeping a notebook during _Chants of Sennaar_ to note down what the symbols meant. Turns out it’s more fun when it’s a game.)
 
@@ -45,7 +45,7 @@ Most user questions I deal with are about system configurations. As internal sta
 
 Mapping user questions and identifying recurring issues can help the team spot what’s missing and drive more user-centred updates.
 
-However, not every gap is a product gap. Some are knowledge gaps. Adding a new function takes time — time for planning, building, testing. But writing a user guide? That’s a quicker fix. It’s like patching the experience with content: fast, low-cost, and surprisingly powerful when users just need to get unstuck.
+However, not every gap is a product gap. Some are knowledge gaps. Adding a new function takes time: time for planning, building, testing. But writing a user guide? That’s a quicker fix. It’s like patching the experience with content: fast, low-cost, and surprisingly powerful when users just need to get unstuck.
 
 ### Knowledge-Building as the True Value of Support
 
@@ -57,6 +57,6 @@ I try to encourage the users to explore the user guides as much as possible, and
 
 Moreover, after spotting recurring issues, I extract patterns, create user guides, and grow the knowledge base.
 
-That’s how support shifts from firefighting to enabling — from answering questions to scaling knowledge.
+That’s how support shifts from firefighting to enabling, from answering questions to scaling knowledge.
 
-Support isn’t just about solving problems — it’s about bridging gaps, like establishing connections between worlds in _Chants of Sennaar_: between systems and users, between language and intent, between what’s designed and what’s actually experienced.
+Support isn’t just about solving problems. It’s about bridging gaps, like establishing connections between worlds in _Chants of Sennaar_: between systems and users, between language and intent, between what’s designed and what’s actually experienced.
