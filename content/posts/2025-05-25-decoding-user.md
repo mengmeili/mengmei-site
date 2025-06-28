@@ -53,7 +53,7 @@ Solving a ticket is step one. But to me, support is about more than quick fixes.
 
 Maybe it comes from my background in teaching, but I genuinely believe that everyone deserves the chance to experience the joy of learning.
 
-I try to encourage the users to explore the user guides as much as possible, and and I always make sure to acknowledge when they take initiative or figure things out on their own.
+I encourage the users to explore the user guides as much as possible, and I always make sure to acknowledge when they take initiative or figure things out on their own.
 
 Moreover, after spotting recurring issues, I extract patterns, create user guides, and grow the knowledge base.
 
